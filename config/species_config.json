@@ -1,0 +1,303 @@
+[
+  {
+    "common_name": "Perroquet princesse",
+    "scientific_name": "Scarus taeniopterus",
+    "family": "Scaridae",
+    "color": "#FF6B6B",
+    "active": true
+  },
+  {
+    "common_name": "Perroquet royal",
+    "scientific_name": "Scarus vetula",
+    "family": "Scaridae",
+    "color": "#4ECDC4",
+    "active": true
+  },
+  {
+    "common_name": "Perroquet queue rouge",
+    "scientific_name": "Sparisoma chrysopterum",
+    "family": "Scaridae",
+    "color": "#FFD166",
+    "active": true
+  },
+  {
+    "common_name": "Perroquet queue jaune",
+    "scientific_name": "Sparisoma rubripinne",
+    "family": "Scaridae",
+    "color": "#8AC926",
+    "active": true
+  },
+  {
+    "common_name": "Perroquet rayé",
+    "scientific_name": "Scarus iseri",
+    "family": "Scaridae",
+    "color": "#577590",
+    "active": true
+  },
+  {
+    "common_name": "Perroquet à bandes rouges",
+    "scientific_name": "Sparisoma aurofrenatum",
+    "family": "Scaridae",
+    "color": "#F94144",
+    "active": true
+  },
+  {
+    "common_name": "Perroquet feu tricolore",
+    "scientific_name": "Scarus viride",
+    "family": "Scaridae",
+    "color": "#F9C74F",
+    "active": true
+  },
+  {
+    "common_name": "Zawag flamand",
+    "scientific_name": "Scarus guacamaia",
+    "family": "Scaridae",
+    "color": "#FF924C",
+    "active": true
+  },
+  {
+    "common_name": "Gorette ti-bouche",
+    "scientific_name": "Haemulon chrysargyreum",
+    "family": "Haemulidae",
+    "color": "#06D6A0",
+    "active": true
+  },
+  {
+    "common_name": "Gorette noire",
+    "scientific_name": "Haemulon bonariense",
+    "family": "Haemulidae",
+    "color": "#C77DFF",
+    "active": true
+  },
+  {
+    "common_name": "Gorette charbonnée",
+    "scientific_name": "Haemulon carbonarium",
+    "family": "Haemulidae",
+    "color": "#2A9D8F",
+    "active": true
+  },
+  {
+    "common_name": "Gorette espagnole",
+    "scientific_name": "Haemulon macrostomum",
+    "family": "Haemulidae",
+    "color": "#E76F51",
+    "active": true
+  },
+  {
+    "common_name": "Gorette latine",
+    "scientific_name": "Haemulon steindachneri",
+    "family": "Haemulidae",
+    "color": "#90BE6D",
+    "active": true
+  },
+  {
+    "common_name": "Gorette jaune",
+    "scientific_name": "Haemulon flavolineatum",
+    "family": "Haemulidae",
+    "color": "#7B2CBF",
+    "active": true
+  },
+  {
+    "common_name": "Gorette dorée",
+    "scientific_name": "Haemulon aurolineatum",
+    "family": "Haemulidae",
+    "color": "#43AA8B",
+    "active": true
+  },
+  {
+    "common_name": "Gorette blanche",
+    "scientific_name": "Haemulon plumierii",
+    "family": "Haemulidae",
+    "color": "#F4A261",
+    "active": true
+  },
+  {
+    "common_name": "Gorette bleue",
+    "scientific_name": "Haemulon sciurus",
+    "family": "Haemulidae",
+    "color": "#118AB2",
+    "active": true
+  },
+  {
+    "common_name": "Mérou de Nassau",
+    "scientific_name": "Epinephelus striatus",
+    "family": "Serranidae",
+    "color": "#6A4C93",
+    "active": true
+  },
+  {
+    "common_name": "Couronné rouge",
+    "scientific_name": "Epinephelus guttatus",
+    "family": "Serranidae",
+    "color": "#9B2335",
+    "active": true
+  },
+  {
+    "common_name": "Wata libi",
+    "scientific_name": "Cephalopholis fulva",
+    "family": "Epinephelidae",
+    "color": "#FF6B6B",
+    "active": true
+  },
+  {
+    "common_name": "Couronné chat",
+    "scientific_name": "Cephalopholis cruentata",
+    "family": "Epinephelidae",
+    "color": "#C77DFF",
+    "active": true
+  },
+  {
+    "common_name": "Pagre dispo",
+    "scientific_name": "Lutjanus cyanopterus",
+    "family": "Lutjanidae",
+    "color": "#1982C4",
+    "active": true
+  },
+  {
+    "common_name": "Sarde queue jaune",
+    "scientific_name": "Ocyurus chrysurus",
+    "family": "Lutjanidae",
+    "color": "#F9C74F",
+    "active": true
+  },
+  {
+    "common_name": "Pagre jaune",
+    "scientific_name": "Lutjanus apodus",
+    "family": "Lutjanidae",
+    "color": "#4ECDC4",
+    "active": true
+  },
+  {
+    "common_name": "Sarde grise",
+    "scientific_name": "Lutjanus griseus",
+    "family": "Lutjanidae",
+    "color": "#8AC926",
+    "active": true
+  },
+  {
+    "common_name": "Sorbe",
+    "scientific_name": "Lutjanus analis",
+    "family": "Lutjanidae",
+    "color": "#06D6A0",
+    "active": true
+  },
+  {
+    "common_name": "Brakou",
+    "scientific_name": "Lutjanus synagris",
+    "family": "Lutjanidae",
+    "color": "#F72585",
+    "active": true
+  },
+  {
+    "common_name": "Pagre dents de chien",
+    "scientific_name": "Lutjanus jocu",
+    "family": "Lutjanidae",
+    "color": "#FF924C",
+    "active": true
+  },
+  {
+    "common_name": "Pagre mahogani",
+    "scientific_name": "Lutjanus mahogoni",
+    "family": "Lutjanidae",
+    "color": "#90BE6D",
+    "active": true
+  },
+  {
+    "common_name": "Capitaine",
+    "scientific_name": "Lachnolaimus maximus",
+    "family": "Labridae",
+    "color": "#FFD166",
+    "active": true
+  },
+  {
+    "common_name": "Barracuda",
+    "scientific_name": "Sphyraena barracuda",
+    "family": "Sphyraenidae",
+    "color": "#F72585",
+    "active": true
+  },
+  {
+    "common_name": "Carangue franche",
+    "scientific_name": "Caranx ruber",
+    "family": "Carangidae",
+    "color": "#577590",
+    "active": true
+  },
+  {
+    "common_name": "Thazard franc",
+    "scientific_name": "Scomberomorus cavalla",
+    "family": "Scombridae",
+    "color": "#2A9D8F",
+    "active": true
+  },
+  {
+    "common_name": "Papillon rayé",
+    "scientific_name": "Chaetodon striatus",
+    "family": "Chaetodontidae",
+    "color": "#F4A261",
+    "active": true
+  },
+  {
+    "common_name": "Papillon quatre-yeux",
+    "scientific_name": "Chaetodon capistratus",
+    "family": "Chaetodontidae",
+    "color": "#E9C46A",
+    "active": true
+  },
+  {
+    "common_name": "Papillon ocellé",
+    "scientific_name": "Chaetodon ocellatus",
+    "family": "Chaetodontidae",
+    "color": "#F3722C",
+    "active": true
+  },
+  {
+    "common_name": "Papillon récifal",
+    "scientific_name": "Chaetodon sedentarius",
+    "family": "Chaetodontidae",
+    "color": "#FCBF49",
+    "active": true
+  },
+  {
+    "common_name": "Chirurgien bleu",
+    "scientific_name": "Acanthurus coeruleus",
+    "family": "Acanthuridae",
+    "color": "#023E8A",
+    "active": true
+  },
+  {
+    "common_name": "Chirurgien océan",
+    "scientific_name": "Acanthurus tractus",
+    "family": "Acanthuridae",
+    "color": "#4361EE",
+    "active": true
+  },
+  {
+    "common_name": "Chirurgien docteur",
+    "scientific_name": "Acanthurus chirurgus",
+    "family": "Acanthuridae",
+    "color": "#7209B7",
+    "active": true
+  },
+  {
+    "common_name": "Marignan",
+    "scientific_name": "Holocentrus rufus",
+    "family": "Holocentridae",
+    "color": "#D62828",
+    "active": true
+  },
+  {
+    "common_name": "Marignan bocou",
+    "scientific_name": "Neoniphon marianus",
+    "family": "Holocentridae",
+    "color": "#F77F00",
+    "active": true
+  },
+  {
+    "common_name": "HESITATION",
+    "scientific_name": "nan",
+    "family": "nan",
+    "color": "#AAAAAA",
+    "active": true
+  }
+]

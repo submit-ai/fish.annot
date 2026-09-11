@@ -1,0 +1,25 @@
+# Build artifacts
+dist/
+build/__pycache__/
+build/work/
+build/fish_annot/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Installer binary (too large for GitHub)
+installer/
+
+# Test / personal data
+data/
+exports/
+
+# Editor / IDE
+.claude/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
