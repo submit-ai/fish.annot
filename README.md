@@ -29,7 +29,9 @@ Version 2 is self-contained: it produces its own boards, so no external pipeline
 
 ## Installation
 
-Download **`FISH_Annot_Setup_v2.0.0.exe`** from the Zenodo record and run it: <https://doi.org/10.5281/zenodo.22699643>
+Download **`FISH_Annot_Setup_v2.0.0.exe`** from the Zenodo record and run it.
+
+> **For peer review:** the Zenodo record is accessible through the link provided with the manuscript. The record is not yet published, so its DOI is reserved but not yet resolvable; a permanent DOI will be active upon publication.
 
 The installer bundles the application and all its dependencies.
 
@@ -297,8 +299,8 @@ If you use this software in your research, please cite:
                from underwater videos and annotating fish species}},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.22699643},
-  url       = {https://doi.org/10.5281/zenodo.22699643}
+  note      = {DOI to be assigned upon publication; archive available to reviewers
+               through the link provided with the manuscript}
 }
 ```
 
